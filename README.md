@@ -1,2 +1,2 @@
 # Pandas-homework
-Analyze data in Jupyter Notebook using Python Pandas library.
+Analyze data in Jupyter Notebook using the Python Pandas library.
